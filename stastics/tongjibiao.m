@@ -1,4 +1,4 @@
-clc,clear;
+
 load('0-1797.mat')
 load('1-1772.mat')
 load('2-1750.mat')
